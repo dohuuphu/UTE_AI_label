@@ -6,5 +6,5 @@ sd
 asdsd
 asdsdas
 d
-text = "Ty"
+text = "TY gay"
 print(text)
